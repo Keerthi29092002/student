@@ -1,0 +1,12 @@
+Student Name=M V Keerthi
+Branch=CSE
+Marks=95
+
+Student Name=Chandu
+Branch=CSE
+Marks=98
+
+Student Name=Krithika
+Branch=CSE
+Marks=97
+

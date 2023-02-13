@@ -6,6 +6,10 @@ Student Name=Chandu
 Branch=CSE
 Marks=98
 
+Student Name=nussu
+Branch=CSE
+Marks=99
+
 Student Name=Krithika
 Branch=CSE
 Marks=97

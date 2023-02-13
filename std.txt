@@ -14,3 +14,6 @@ Student Name=Krithika
 Branch=CSE
 Marks=97
 
+Student Name=Sai
+Branch=CSE
+Marks=100
